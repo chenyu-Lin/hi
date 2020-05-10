@@ -1,0 +1,6 @@
+# name=input('請輸入名字: ')
+# print('嗨', name)
+x=input('請輸入身高: ')
+y=input('請輸入體重: ')
+print('身高', x)
+print('體重', y)
